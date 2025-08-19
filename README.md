@@ -72,7 +72,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 
-Usage
+#Usage
 
 Notebooks in notebooks/ demonstrate:
 
@@ -90,7 +90,7 @@ Training classifiers
 
 Generating evaluation metrics
 
-References
+#References
 
 Giuffrè, M., & Shung, D. L. (2023). Harnessing the power of synthetic data in healthcare: innovation, application, and privacy. NPJ Digital Medicine, 6(1), 186.
 
