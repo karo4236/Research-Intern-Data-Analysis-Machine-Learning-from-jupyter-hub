@@ -40,12 +40,13 @@ The project focuses on:
 
 ## Directory Structure
 
+```text
 llama-local/
-├── notebooks/         # Jupyter notebooks
-├── scripts/           # Python scripts for analysis
-├── data/              # Processed data files (small)
+├── notebooks/        # Jupyter notebooks
+├── scripts/          # Python scripts for analysis
+├── data/             # Processed data files (small)
 ├── README.md
-├── requirements.txt   # Dependencies
-└── .gitignore         # Ignored files (venv, checkpoints, etc.)
+├── requirements.txt  # Dependencies
+└── .gitignore        # Ignored files (venv, checkpoints, etc.)
 
 
