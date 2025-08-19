@@ -59,7 +59,7 @@ llama-local/
 
 ```bash
 git clone https://github.com/karo4236/Research-Intern-Data-Analysis-Machine-Learning-from-jupyter-hub.git
-cd llama-local
+
 ```
 
 python -m venv .venv
