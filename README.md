@@ -38,13 +38,14 @@ The project focuses on:
 
 ---
 
-## **Directory Structure**
+## Directory Structure
 
-│
-├─ notebooks/ # Jupyter notebooks
-├─ scripts/ # Python scripts for analysis
-├─ data/ # Processed data files (small)
-├─ README.md
-├─ requirements.txt # Dependencies
-└─ .gitignore # Ignored files (venv, checkpoints, etc.)
+llama-local/
+├── notebooks/         # Jupyter notebooks
+├── scripts/           # Python scripts for analysis
+├── data/              # Processed data files (small)
+├── README.md
+├── requirements.txt   # Dependencies
+└── .gitignore         # Ignored files (venv, checkpoints, etc.)
+
 
