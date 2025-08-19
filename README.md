@@ -49,4 +49,55 @@ llama-local/
 ├── requirements.txt  # Dependencies
 └── .gitignore        # Ignored files (venv, checkpoints, etc.)
 
+```
+
+---
+
+## **Setup Instructions**
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/karo4236/Research-Intern-Data-Analysis-Machine-Learning-from-jupyter-hub.git
+cd llama-local
+```
+
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# Linux/macOS
+source .venv/bin/activate
+
+
+pip install -r requirements.txt
+
+
+Usage
+
+Notebooks in notebooks/ demonstrate:
+
+Sociodemographic attribute detection
+
+Synthetic data generation and evaluation
+
+Downstream classification experiments
+
+Scripts in scripts/ provide reusable modules for:
+
+Feature extraction using CYMO
+
+Training classifiers
+
+Generating evaluation metrics
+
+References
+
+Giuffrè, M., & Shung, D. L. (2023). Harnessing the power of synthetic data in healthcare: innovation, application, and privacy. NPJ Digital Medicine, 6(1), 186.
+
+Chen, R. J., et al. (2021). Synthetic data in machine learning for medicine and healthcare. Nature Biomedical Engineering, 5(6), 493–497.
+
+Smolyak, D., et al. (2024). Large language models and synthetic health data: progress and prospects. JAMIA Open, 7(4), ooae114.
+
+Woo, E.G., et al. (2025). Synthetic data distillation enables the extraction of clinical information at scale. NPJ Digital Medicine, 8, 267.
+
 
